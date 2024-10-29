@@ -1,6 +1,5 @@
-If previously installed from official Repositories, please Uninstall first
-
-https://github.com/Henruchit0/plank_with_zoom
+If previously installed from official Repositories, please Uninstall first then
+clone https://github.com/Henruchit0/plank_with_zoom.git
 cd plank
  sudo dnf install automake autoconf (skip if installed)
  sudo dnf install gettext (skip if installed)
